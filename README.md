@@ -1,4 +1,4 @@
-# predict_donations
+# Predict Donations
 
 The goal is to predict who is likely to make a donation to the charity for a specific fundraising campaign (%),
 and  how  much  money  they  are  likely  to  give  if  they  do  (€).  By  combining  these  two 
