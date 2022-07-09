@@ -3,7 +3,7 @@
 The goal is to predict who is likely to make a donation to the charity for a specific fundraising campaign (%),
 and  how  much  money  they  are  likely  to  give  if  they  do  (€).  By  combining  these  two 
 predictions (% * €), we will obtain an expected revenue from each individual.
-Every solicitation costs 2.00 €
+Every solicitation costs 2.00 €.
 
 If the expected revenue we have predicted exceeds that figure of 2 €, we will recommend the charity 
 to solicit that individual (solicit = 1), since the expected profit is positive. If it is below 2 €, we will 
