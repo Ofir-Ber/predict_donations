@@ -14,8 +14,7 @@ Our objective is to maximize the financial performance of that campaign for the 
 # Data set
 On the last day of data available in the database, the charity has solicited 123,672 donors for their June campaign. 
 Out  of  these  123,672  solicited  donors,  about  ~12,700  have  made  a  subsequent  donation. 
-We don't know which contacts have decided to make a donation and for how much, and who did not, has been observed and is 
-known by the professor. 
+We don't know which contacts have decided to make a donation and for how much.
 These 123,672 solicited donors have been divided into two batches of approximately equal sizes. 
 For the first batch (N = 61,928), called the “calibration” data, we have complete information about 
 their responses to the fundraising campaign. This batch will be used for calibration. 
