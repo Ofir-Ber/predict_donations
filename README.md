@@ -28,14 +28,14 @@ All that information is contained in the “assignment2” table:
 specific fundraising campaign. 
 - calibration 1: if part of the calibration data, 0 if part of the prediction data. 
 - donation 1: if the donor has made a donation, 0 if the donor has not, NULL if the 
-information  is  unknown  to  you.  By  design,  the  value  is  set  to  NULL  if 
+information  is  unknown.  By  design,  the  value  is  set  to  NULL  if 
 calibration = 0. 
 - amount: The actual donation amount observed, in EUR. The value is NULL if the 
 donor has not made any donation (donation = 0) or if the response has 
-not been communicated to you for this individual (calibration = 0). 
-- act_date  The date at which the donation has been made. The value is NULL if the 
+not been communicated to us for this individual (calibration = 0). 
+- act_date: The date at which the donation has been made. The value is NULL if the 
 donor has not made any donation (donation = 0) or if the response has 
-not been communicated to you for this individual (calibration = 0). 
+not been communicated to us for this individual (calibration = 0). 
 
 
 # Process
